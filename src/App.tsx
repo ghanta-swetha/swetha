@@ -9,7 +9,7 @@ import Portfolio from "./components/Portfolio"
 import Services from "./components/Services"
 import Testimonials from "./components/Testimonials"
 import Contact from "./components/Contact"
-import FadeInSection from "./components/Fadeinsection" // <-- import wrapper
+import FadeInSection from "./components/FadeInSection" // <-- import wrapper
 
 function App() {
   const [activeSection, setActiveSection] = useState("hero")
