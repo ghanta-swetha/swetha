@@ -38,7 +38,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
           <div>
             <img
-              src="/hero/image2.jpeg"
+              src="/hero/image2.jpg"
               alt="Profile"
               className="rounded-lg shadow-lg w-full h-[600px] max-w-md mx-auto"
             />
